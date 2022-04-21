@@ -12,7 +12,7 @@ async function start() {
     
     conn.on('connecting', async () => {
         console.log(`${chalk.green.bold('Leon')}
-${chalk.white.italic('Made By ')}${chalk.red.bold('TOXIC DEVIL')}
+${chalk.white.italic('Made By ')}${chalk.red.bold('𝐒𝐄𝐍𝐒𝐄İ 𝑩𝑶𝑻✔︎')}
 ${chalk.blue.italic('🔄 Loading QR CODE...')}`);
     });
     
@@ -31,7 +31,7 @@ ${chalk.blue.italic('🔄 Loading QR CODE...')}`);
             chalk.red.bold('⚠ COPY THIS CODE, IT IS IMPORTANT... ⚠'))
             
         console.log(
-            chalk.blue.bold('Thank You For Using Leon 💖'))
+            chalk.blue.bold('Thank You For Using Leon シ︎❥︎'))
 
         process.exit(0);
     });
